@@ -1,0 +1,6 @@
+{
+  "name": "Department of CCE Hub",
+  "description": "A feature-rich platform connecting current students and alumni of the Computer Science and Communication Engineering Department featuring AI assistant, advanced filters, admin control and simulated push notifications.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

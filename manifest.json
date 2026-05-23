@@ -1,0 +1,22 @@
+{
+  "name": "CCE Student-Alumni Hub",
+  "short_name": "CCE Hub",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#b91c1c",
+  "description": "Interactive central portal connecting CCE department students with graduated alumni.",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5087/5087579.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5087/5087579.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
